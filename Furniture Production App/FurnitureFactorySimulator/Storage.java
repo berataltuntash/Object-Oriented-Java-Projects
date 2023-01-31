@@ -1,0 +1,4 @@
+package FurnitureFactorySimulator;
+
+class Storage {
+}
